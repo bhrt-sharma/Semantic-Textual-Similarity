@@ -15,5 +15,6 @@ available datasets:
   http://www.statmt.org/wmt08/shared-evaluation-task.html
   734 pairs of sentences.
 
-The sentence pairs have been manually tagged with a number from 0 to
-5,
+The sentence pairs have been manually tagged with a number from 0 to 5.
+
+The Kaggle Notebook link is [this](https://www.kaggle.com/bhrt97/semantic-textual-similarity-nlp)
